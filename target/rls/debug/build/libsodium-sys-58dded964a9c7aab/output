@@ -1,0 +1,8 @@
+cargo:rerun-if-env-changed=SODIUM_LIB_DIR
+cargo:rerun-if-env-changed=SODIUM_SHARED
+cargo:rerun-if-env-changed=SODIUM_USE_PKG_CONFIG
+cargo:rerun-if-env-changed=VCPKGRS_DYNAMIC
+cargo:rustc-link-lib=static=libsodium
+cargo:rustc-link-search=native=C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\libsodium-sys-0.2.5\msvc/x64/Debug/v140/
+cargo:include=c:\Users\M7\Desktop\encrypt\target\rls\debug\build\libsodium-sys-58dded964a9c7aab\out\source\libsodium-1.0.18\src/libsodium/include
+cargo:lib=C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\libsodium-sys-0.2.5\msvc/x64/Debug/v140/

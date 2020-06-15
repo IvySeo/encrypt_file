@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=c:\Users\M7\Desktop\encrypt\target\rls\debug\build\typenum-ff54dd15917cc461\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=c:\Users\M7\Desktop\encrypt\target\rls\debug\build\typenum-ff54dd15917cc461\out\op.rs

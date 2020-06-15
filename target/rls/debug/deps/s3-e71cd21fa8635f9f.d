@@ -1,0 +1,14 @@
+c:\Users\M7\Desktop\encrypt\target\rls\debug\deps\s3-e71cd21fa8635f9f.rmeta: C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src/lib.rs C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\bucket.rs C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\credentials.rs C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\command.rs C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\error.rs C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\region.rs C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\request.rs C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\serde_types.rs C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\signing.rs C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\deserializer.rs
+
+c:\Users\M7\Desktop\encrypt\target\rls\debug\deps\s3-e71cd21fa8635f9f.d: C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src/lib.rs C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\bucket.rs C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\credentials.rs C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\command.rs C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\error.rs C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\region.rs C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\request.rs C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\serde_types.rs C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\signing.rs C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\deserializer.rs
+
+C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src/lib.rs:
+C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\bucket.rs:
+C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\credentials.rs:
+C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\command.rs:
+C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\error.rs:
+C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\region.rs:
+C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\request.rs:
+C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\serde_types.rs:
+C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\signing.rs:
+C:\Users\M7\.cargo\registry\src\github.com-1ecc6299db9ec823\rust-s3-0.8.2\src\deserializer.rs:
